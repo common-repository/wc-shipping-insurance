@@ -1,0 +1,6 @@
+textarea#wc_settings_tab_demo_description {
+    min-height: 200px;
+    width: 48%;
+    overflow: hidden;
+}
+/*.percentage,.flatrate{display: none;}*/
